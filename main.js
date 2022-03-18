@@ -14,7 +14,7 @@ while (molestaAQuien == "VANESA"){
 }
 };
 
-alert("Bien, el primer paso esta dado, aunque no deberias moletar a naide mas, incluso a " +molestar);
+alert("Bien, el primer paso esta dado, aunque no deberias moletar a nadie mas, incluso a " +molestar);
 
 
 
