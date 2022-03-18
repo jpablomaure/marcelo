@@ -1,7 +1,6 @@
 let molestar = prompt("Introduzca el nombre de la persona que quiere molestar (no pongas Vanesa eh!!!)");
 
 molestar = molestar.toUpperCase().trim();
-// alert(molestar);
 
 comenzar(molestar);
 
